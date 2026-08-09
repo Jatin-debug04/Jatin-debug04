@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0A0A&height=220&fontColor=FF3131&text=%3E_%20JATIN%20NAMA&fontSize=32&desc=Data+Quality+%7C+BI+%2F+Analytics+%7C+AI+Automation&descColor=B80000&descAlignY=75&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0A0A&height=220&fontColor=FF3131&text=%3E_%20JATIN%20NAMA&fontSize=32&desc=Data+Analyst+%7C+BI+%2F+Analytics+%7C+AI+Automation&descColor=B80000&descAlignY=75&animation=fadeIn" />
 </div>
 
 
@@ -27,7 +27,7 @@ Data Quality / Business Process Analyst at TCS (Tata Consultancy Services), Vado
 ```bash
 $ cat .profile
 
-ROLE     =  Data Quality / Business Process Analyst
+ROLE     =  Data Analyst / Business Process Analyst
 COMPANY  =  Tata Consultancy Services (TCS)
 LOCATION =  Vadodara, Gujarat, India
 DOMAIN   =  Data Analyst | Business Intelligence | AI Automation
