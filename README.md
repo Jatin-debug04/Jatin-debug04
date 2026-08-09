@@ -22,15 +22,15 @@
 
 ## `> whoami`
 
-Data Quality / Business Process Analyst at TCS (Tata Consultancy Services), Jaipur — doing large-scale data quality checks for international clients by day, and building AI-powered analytics tools and freelance automation solutions on the side.
+Data Quality / Business Process Analyst at TCS (Tata Consultancy Services), Vadodara — doing large-scale data quality checks for international clients by day, and building AI-powered analytics tools and freelance automation solutions on the side.
 
 ```bash
 $ cat .profile
 
 ROLE     =  Data Quality / Business Process Analyst
 COMPANY  =  Tata Consultancy Services (TCS)
-LOCATION =  Jaipur, Rajasthan, India
-DOMAIN   =  Data Quality | Business Intelligence | AI Automation
+LOCATION =  Vadodara, Gujarat, India
+DOMAIN   =  Data Analyst | Business Intelligence | AI Automation
 STACK    =  Power BI | Tableau | SQL | Python | Excel
 OPEN_TO  =  Data Analyst / Business Analyst / BI Analyst roles
 ```
@@ -155,7 +155,7 @@ Segmentation analysis to group customers by behavior and value.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jatin-debug04&show_icons=true&hide_border=true&title_color=FF3131&icon_color=B80000&text_color=F0F0F0&bg_color=0A0A0A" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-debug04&hide_border=true&background=0A0A0A&stroke=FF3131&ring=B80000&fire=FF3131&currStreakLabel=FF3131" />
+<img height="165" src="https://streak-stats.demolab.com/?user=jatin-debug04&hide_border=true&background=0A0A0A&stroke=FF3131&ring=B80000&fire=FF3131&currStreakLabel=FF3131" />
 
 </div>
 
