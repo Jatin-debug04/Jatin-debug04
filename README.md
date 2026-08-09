@@ -1,6 +1,7 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0A0A&height=220&fontColor=FF3131&text=%3E_%20JATIN%20NAMA&fontSize=32&desc=Data+Analyst+%7C+BI+%2F+Analytics+%7C+AI+Automation&descColor=B80000&descAlignY=75&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0A0A0A,100:4D0000&height=220&fontColor=FF3131&text=%3E_%20JATIN%20NAMA&fontSize=32&desc=Data+Quality+%7C+BI+%2F+Analytics+%7C+AI+Automation&descColor=FF6B6B&descAlignY=75&animation=fadeIn" />
 </div>
+
 
 
 <div align="center">
@@ -194,5 +195,6 @@ open_to:
 </div>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0A0A&fontColor=FF3131&height=100&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:4D0000,100:0A0A0A&height=100&section=footer&animation=fadeIn" />
 </div>
+
