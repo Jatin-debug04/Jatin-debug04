@@ -119,7 +119,7 @@ Segmentation analysis to group customers by behavior and value.
 
 ## `> cat experience.log`
 
-**Data Quality / Business Process Analyst** · TCS (Tata Consultancy Services) · Jaipur
+**Data Quality / Business Process Analyst** · TCS (Tata Consultancy Services) · Vadodara
 `Present`
 - Perform data quality checks on large-scale product datasets for international clients
 - Ensure data accuracy and consistency across business process workflows
@@ -155,7 +155,7 @@ Segmentation analysis to group customers by behavior and value.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jatin-debug04&show_icons=true&hide_border=true&title_color=FF3131&icon_color=B80000&text_color=F0F0F0&bg_color=0A0A0A" />
-<img height="165" src="https://streak-stats.demolab.com/?user=jatin-debug04&hide_border=true&background=0A0A0A&stroke=FF3131&ring=B80000&fire=FF3131&currStreakLabel=FF3131" />
+<img height="165" src="https://streak-stats.demolab.com/?user=jatin-debug04&hide_border=true&background=0A0A0A&stroke=FF3131&ring=B80000&fire=FF3131&currStreakLabel=FF3131&currStreakNum=F0F0F0&sideNums=F0F0F0&sideLabels=F0F0F0&dates=8A8A8A" />
 
 </div>
 
@@ -180,7 +180,7 @@ building:
 
 open_to:
   - Data Analyst / Business Analyst / BI Analyst roles
-  - India-based MNCs and consulting firms
+  - All MNCs and consulting firms
 ```
 
 ## `> connect`
