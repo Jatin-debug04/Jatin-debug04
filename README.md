@@ -1,6 +1,7 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0A0A&fontColor=FF3131&text=%3E_%20JATIN%20NAMA&fontSize=38&desc=Data+Quality+%7C+BI+%2F+Analytics+%7C+AI+Automation&descColor=B80000&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0A0A&height=220&fontColor=FF3131&text=%3E_%20JATIN%20NAMA&fontSize=32&desc=Data+Quality+%7C+BI+%2F+Analytics+%7C+AI+Automation&descColor=B80000&descAlignY=75&animation=fadeIn" />
 </div>
+
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=FF3131&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Data+Quality+%2F+Business+Process+Analyst;%24+skills+%E2%86%92+Power+BI+%7C+Tableau+%7C+SQL+%7C+Python;%24+cat+open-to.txt+%E2%86%92+Data+%2F+BI+%2F+Business+Analyst+roles;%24+building+%E2%86%92+AI-powered+RAG+chatbots" />
